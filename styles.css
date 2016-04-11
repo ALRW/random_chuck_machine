@@ -1,0 +1,10 @@
+body{
+  background: url(http://2.bp.blogspot.com/-4-r3TkFGInU/TzGvjXAtBBI/AAAAAAAAAiA/6RqPLnFmDus/s1600/Letters111.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.card{
+  opacity: 0.9;
+}
